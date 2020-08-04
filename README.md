@@ -1,6 +1,6 @@
 # nuxt-static-firebase
 
-A Nuxt.js static website starter kit with Firebase/Firestore database. With authentication and auto deployment to GitHub Pages on every push to master branch through GitHub Actions. **Free Hosting and deployment!** Ideal for small to medium-sized projects.
+A [Nuxt.js](https://nuxtjs.org/) static website **starter kit** with Firebase/Firestore database. Includes basic authentication and auto deployment to GitHub Pages on every push to master branch through GitHub Actions. **Free Hosting and deployment!** Ideal for small to medium-sized projects.
 
 ![homepage](static/images/homepage.jpg)
 
@@ -27,9 +27,13 @@ Add your own personal Firebase configuration variables in `.env.example` and sav
 
 ## Live website
 
-[Demo](https://jeanquark.github.io/nuxt-static-firebase/).
+Demo [here](https://jeanquark.github.io/nuxt-static-firebase/).
 For your own website, visit <ins>https://\<your-github-username>/github.io/nuxt-static-firebase</ins>.
 
 ## Custom domain
 
 GitHub Pages allows you to configure a custom domain for your website. Learn more [here](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site).
+
+## Author
+
+[Jean-Marc Kleger](https://jmkleger.com)
