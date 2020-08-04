@@ -2,8 +2,6 @@
     <div>
         <div style="margin-bottom: 20px;">
             <nuxt-link to="/">Home</nuxt-link> | <nuxt-link to="/protected">Protected Page</nuxt-link> |
-                    <nuxt-link to="/login">Login</nuxt-link> |
-
             <client-only>
                 <span v-if="!authUser">
                     <nuxt-link to="/login">Login</nuxt-link> |

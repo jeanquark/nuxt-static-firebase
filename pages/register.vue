@@ -30,9 +30,9 @@ export default {
     },
     data() {
         return {
-			email: 'john.doe@example.com',
-			password: 'secret',
-			password_confirmation: 'secret'
+			email: '',
+			password: '',
+			password_confirmation: ''
 		}
 	},
 	methods: {

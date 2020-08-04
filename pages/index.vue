@@ -6,7 +6,7 @@
         </h1>
         <div class="box">With authentication and GitHub Pages auto deployment. (Almost) no CSS, minimum dependencies.</div>
         <p><b>Environment: </b>{{ environment }}</p><br />
-        <p><b>Posts from Firebase: </b>{{ posts }}</p>
+        <p><b>Blog posts from Firestore: </b>{{ posts }}</p>
     </div>
 </template>
 
